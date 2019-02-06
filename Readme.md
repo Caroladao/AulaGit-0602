@@ -1,5 +1,4 @@
-#Arquivo readme 
+#arquivo readme Forlogic 
 
-Alteração qualquer
-
-Alterando novamente
+alteração qualquer
+alteração do arquivo
